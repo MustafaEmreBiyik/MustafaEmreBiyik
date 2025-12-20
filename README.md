@@ -1,54 +1,57 @@
 # Hi there, I'm Mustafa Emre Bıyık! 👋
 
-### 👨‍💻 Computer Engineering Student | Cybersecurity & AI Research
-
-I am a passionate 4th-year Computer Engineering student at Istanbul Health and Technology University. My work focuses on the intersection of **Cybersecurity**, **Artificial Intelligence**, and **Robotics**. I enjoy building secure, intelligent, and autonomous systems that solve real-world problems.
+### 👨‍💻 Computer Engineering Student | Future Cybersecurity & AI Specialist
+I am a 4th-year Computer Engineering student at **Istanbul Health and Technology University**. My expertise lies at the intersection of **Cybersecurity (Red Teaming focus)**, **Hybrid AI Architectures**, and **Robotics**. I build secure, intelligent, and scalable systems using cutting-edge technologies.
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠️ Technical Ecosystem
 
-* **Cybersecurity:** Network Traffic Analysis (Scapy), IPS/IDS Development, Linux Security, Firewall Integration.
-* [cite_start]**AI & Machine Learning:** Hybrid AI Architectures[cite: 2], LLM Orchestration (Gemini, MedGemma), Computer Vision (OpenCV), TensorFlow/Keras.
-* **Robotics:** ROS 2 Humble, Gazebo Harmonic, SLAM, URDF/Xacro modeling.
-* **Development & DevOps:** Python (FastAPI/Django), Java, PHP, React, Docker, Microservices.
-* **Databases:** PostgreSQL, MSSQL, Firebase, MongoDB (Learning), Redis.
+* **🛡️ Cybersecurity:** Network Traffic Analysis (Scapy), Penetration Testing, Ethical Hacking, Fundamentals of Cybersecurity (Cisco), Hands-on experience with HTB & TryHackMe.
+* **🤖 Artificial Intelligence:** Hybrid AI Architectures (LLM + Rule Engine), MedGemma/Gemini integration, Computer Vision (OpenCV, YOLO), Deep Learning (TensorFlow, Keras), Scikit-learn.
+* **⚙️ Robotics & Systems:** ROS 2 Humble, Gazebo Harmonic, SLAM, x86 Assembly, Linux Kernel Basics.
+* **💻 Software Development:** * **Python:** Machine Learning, Django, Automation scripts.
+    * **C# / .NET:** ASP.NET Core 8 with Identity.
+    * **Java:** OOP, Design Patterns, Clean Code, Automation scripts.
+    * **Web & Backend:** PHP, JavaScript, React, Firebase, Node.js.
+* **🐳 DevOps & Infrastructure:** Docker (Containerization), Microservices, CI/CD Awareness.
+* **📊 Databases:** PostgreSQL, MySQL, MSSQL, Firebase, Redis.
 
 ---
 
 ### 🌟 Featured Projects
 
 #### 🛡️ [Network Intrusion Prevention System (IPS)](https://github.com/MustafaEmreBiyik/Network-IPS)
-* **Goal:** Real-time threat detection and automated blocking.
-* **Impact:** 99.90% Attack Detection (Recall) with 3x reduced latency via Top 20 feature selection.
-* **Stack:** Python, Random Forest, Scapy, CICIDS 2017 Dataset.
+* **Core:** Real-time threat detection and automated blocking using Machine Learning.
+* **Impact:** 99.90% Recall rate on CICIDS 2017 dataset with high-speed packet analysis.
+* **Stack:** Python, Random Forest, Scapy, Windows/Linux Firewall Integration.
 
 #### 🦷 [DentalAI: Hybrid AI Clinical Tutor](https://github.com/MustafaEmreBiyik/DentalAI)
-* **Goal:** An interactive clinical simulation for dental students (TÜBİTAK 2209-A Candidate).
-* [cite_start]**Innovation:** Uses a **Hybrid AI Architecture** [cite: 180] [cite_start]combining Google Gemini's natural language understanding [cite: 147] [cite_start]with a deterministic clinical rule engine[cite: 5].
-* [cite_start]**Safety:** Integrated **MedGemma** to validate clinical decisions against safety protocols[cite: 348].
+* **Innovation:** A **Hybrid AI Architecture** combining LLM (Gemini/MedGemma) with deterministic clinical rules for 100% medical accuracy.
+* **Status:** Candidate for **TÜBİTAK 2209-A** research grant.
+* **Stack:** Python, MedGemma, Streamlit, PostgreSQL.
 
 #### 🤖 [Home Cleaner Bot](https://github.com/MustafaEmreBiyik/BYM412_Proje)
-* **Goal:** Autonomous mobile robot simulation.
-* **Key Features:** Real-time SLAM (Simultaneous Localization and Mapping) and obstacle avoidance.
+* **Core:** Autonomous mobile robot simulation with SLAM and LIDAR integration.
 * **Stack:** ROS 2 Humble, Gazebo Harmonic, Docker.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Ecosystem & Stats
 
 ![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustafaEmreBiyik&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaEmreBiyik&layout=compact&theme=radical)
 
 ---
 
-### 🎯 Current Focus & Goals
-* 🎓 Preparing for a **Master’s in Germany** specializing in Secure AI & Cyber-Physical Systems.
-* 🛡️ Deepening my knowledge in **Cloud Security** and **Kubernetes**.
-* 🇩🇪 Currently learning **German** (A1/A2).
+### 🎯 Professional Goals & Current Focus
+* 🎓 Preparing for a **Master’s Degree in Germany** with a focus on Cyber-Physical Systems.
+* 🚩 Aspiring **Red Team Specialist** with a deep interest in AI-enhanced security analysis.
+* 🇩🇪 Learning German (A1/A2) and preparing for English proficiency exams (IELTS).
 
-### 📫 How to reach me:
-* [LinkedIn](https://linkedin.com/in/MustafaEmreBiyik)
-* [Email](mailto:your-email@example.com)
+### 📫 Get in touch:
+* 🌍 [LinkedIn](https://www.linkedin.com/in/mustafa-emre-bıyık)
+* 📧 [Email](mailto:mustafaemrebiyik19@gmail.com)
+* 🛡️ [Stack Overflow](https://stackoverflow.com/users/29990733/mustafa-emre)
 
-*"Securing the future with Intelligence and Automation."*
+*"Solving complex problems with secure code and intelligent automation."*
