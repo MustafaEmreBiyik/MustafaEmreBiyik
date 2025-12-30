@@ -39,11 +39,9 @@ I am a 4th-year Computer Engineering student at **Istanbul Health and Technology
 
 ### 📈 GitHub Ecosystem & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaEmreBiyik&show_icons=true&theme=radical" alt="Mustafa's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaEmreBiyik&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+![Mustafa's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MustafaEmreBiyik&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MustafaEmreBiyik&layout=compact&theme=radical)
 
 ---
 
